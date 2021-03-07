@@ -1,0 +1,23 @@
+{
+  "name": "Jest-Practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSometimes/Jest-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GSometimes/Jest-Practice/issues"
+  },
+  "homepage": "https://github.com/GSometimes/Jest-Practice#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
